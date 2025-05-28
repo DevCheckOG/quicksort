@@ -1,3 +1,3 @@
 # QuickSort
 
-QuickSort implementation in LLVM IR.
+Hand-written implementation of QuickSort in LLVM IR.
